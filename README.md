@@ -95,9 +95,13 @@ AUC-ROC – Measures the classifier’s ability to separate classes.
 For Regressor:
 
 Mean Squared Error (MSE)
+
 Root Mean Squared Error (RMSE)
+
 Mean Absolute Error (MAE)
+
 R² Score – Indicates model fit quality.
+
 
 🔍 Advantages Over Other Boosting Methods
 
